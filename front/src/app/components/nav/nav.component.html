@@ -1,0 +1,33 @@
+<!-- Menu lateral, com os links e as imagens dos links -->
+<mat-drawer-container class="container" autosize>
+   <mat-drawer #drawer class="sidenav" mode="side">
+      <mat-nav-list class="nav-list">
+         <a mat-list-item routerLink="tecnicos">
+            <i class="material-icons">account_circle</i>
+            Técnicos
+         </a>
+         <a mat-list-item routerLink="clientes">
+            <i class="material-icons">person</i>
+            Clientes
+         </a>
+         <a mat-list-item routerLink="chamados">
+            <i class="material-icons">support</i>
+            Chamados
+         </a>
+         <a mat-list-item (click)="logout()">
+            <i class="material-icons">logout</i>
+            Sair
+         </a>
+      </mat-nav-list>
+   </mat-drawer>
+
+   <!-- Botão para fazer aparecer e desaparecer o menu -->
+   <div class="sidenav-content">
+      <button class="menu mat-elevation-z8" (click)="drawer.toggle()" mat-icon-button>
+         <mat-icon>menu</mat-icon>
+      </button>
+      <!--Pegando as rotas do app-routing.module.ts-->
+      <router-outlet></router-outlet>
+   </div>
+
+</mat-drawer-container>

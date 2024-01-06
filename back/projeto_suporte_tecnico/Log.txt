@@ -1,0 +1,564 @@
+dez. 07, 2023 4:40:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 07, 2023 4:40:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 07, 2023 4:40:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+GRAVE: Log Severo
+dez. 07, 2023 4:42:41 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 07, 2023 4:42:41 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 07, 2023 4:42:41 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 07, 2023 5:02:50 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 07, 2023 5:02:50 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 07, 2023 5:02:50 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 07, 2023 7:09:59 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 07, 2023 7:09:59 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 07, 2023 7:09:59 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 07, 2023 7:16:27 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 07, 2023 7:16:27 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 07, 2023 7:16:27 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 07, 2023 7:38:00 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 07, 2023 7:38:00 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 07, 2023 7:38:00 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 07, 2023 7:57:53 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 07, 2023 7:57:53 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 07, 2023 7:57:53 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 07, 2023 7:59:39 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 07, 2023 7:59:39 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 07, 2023 7:59:39 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 07, 2023 8:07:03 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 07, 2023 8:07:03 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 07, 2023 8:07:03 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 07, 2023 8:08:17 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 07, 2023 8:08:17 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 07, 2023 8:08:17 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 08, 2023 11:57:23 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 08, 2023 11:57:23 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 08, 2023 11:57:23 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 08, 2023 12:46:14 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 08, 2023 12:46:14 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 08, 2023 12:46:14 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 08, 2023 12:48:34 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 08, 2023 12:48:34 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 08, 2023 12:48:34 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 08, 2023 12:49:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 08, 2023 12:49:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 08, 2023 12:49:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 08, 2023 5:07:09 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 08, 2023 5:07:09 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 08, 2023 5:07:09 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 08, 2023 6:47:19 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 08, 2023 6:47:19 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 08, 2023 6:47:19 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 09, 2023 4:17:03 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 09, 2023 4:17:03 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 09, 2023 4:17:03 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 09, 2023 4:37:43 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 09, 2023 4:37:43 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 09, 2023 4:37:43 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 09, 2023 5:11:36 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 09, 2023 5:11:36 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 09, 2023 5:11:36 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 09, 2023 5:20:26 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 09, 2023 5:20:26 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 09, 2023 5:20:26 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 10:42:05 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 10:42:05 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 10:42:05 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 11:03:52 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 11:03:52 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 11:03:52 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 11:07:03 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 11:07:03 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 11:07:03 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 11:20:11 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 11:20:11 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 11:20:11 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 11:22:26 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 11:22:26 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 11:22:26 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 11:25:16 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 11:25:16 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 11:25:16 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 11:27:45 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 11:27:45 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 11:27:45 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 11:31:36 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 11:31:36 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 11:31:36 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 11:36:10 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 11:36:10 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 11:36:10 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 11:39:30 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 11:39:30 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 11:39:30 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 11:47:21 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 11:47:21 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 11:47:21 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 12:23:39 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 12:23:39 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 12:23:39 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 3:26:51 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 3:26:51 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 3:26:51 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 4:01:01 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 4:01:01 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 4:01:01 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 5:22:50 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 5:22:50 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 5:22:50 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 11, 2023 5:30:16 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 11, 2023 5:30:16 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 11, 2023 5:30:16 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 12, 2023 11:18:06 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 12, 2023 11:18:06 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 12, 2023 11:18:06 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 12, 2023 2:43:25 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 12, 2023 2:43:25 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 12, 2023 2:43:25 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 12, 2023 2:46:43 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 12, 2023 2:46:43 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 12, 2023 2:46:43 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 12, 2023 4:01:06 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 12, 2023 4:01:06 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 12, 2023 4:01:06 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 12, 2023 5:58:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 12, 2023 5:58:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 12, 2023 5:58:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 4:40:50 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 4:40:50 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 4:40:50 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 4:42:13 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 4:42:13 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 4:42:13 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 6:35:57 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 6:35:57 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 6:35:57 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 6:41:42 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 6:41:42 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 6:41:42 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 7:03:22 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 7:03:22 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 7:03:22 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 7:08:24 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 7:08:24 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 7:08:24 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 7:18:31 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 7:18:31 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 7:18:31 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 8:01:49 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 8:01:49 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 8:01:49 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 8:06:23 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 8:06:23 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 8:06:23 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 8:42:06 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 8:42:06 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 8:42:06 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 8:56:36 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 8:56:36 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 8:56:36 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 9:03:13 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 9:03:13 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 9:03:13 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 13, 2023 9:19:17 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 13, 2023 9:19:17 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 13, 2023 9:19:17 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 14, 2023 11:27:24 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 14, 2023 11:27:24 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 14, 2023 11:27:24 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 14, 2023 9:33:38 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 14, 2023 9:33:38 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 14, 2023 9:33:38 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 15, 2023 10:57:29 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 15, 2023 10:57:29 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 15, 2023 10:57:29 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 15, 2023 11:23:25 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 15, 2023 11:23:25 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 15, 2023 11:23:25 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 15, 2023 4:53:37 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 15, 2023 4:53:37 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 15, 2023 4:53:37 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 15, 2023 6:11:46 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 15, 2023 6:11:46 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 15, 2023 6:11:46 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 15, 2023 6:28:58 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 15, 2023 6:28:58 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 15, 2023 6:28:58 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 15, 2023 8:04:15 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 15, 2023 8:04:15 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 15, 2023 8:04:15 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 15, 2023 8:13:37 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 15, 2023 8:13:37 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 15, 2023 8:13:37 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 17, 2023 1:01:18 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 17, 2023 1:01:18 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 17, 2023 1:01:18 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 18, 2023 7:05:20 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 18, 2023 7:05:20 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 18, 2023 7:05:20 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 18, 2023 7:18:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 18, 2023 7:18:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 18, 2023 7:18:08 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 9:20:19 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 9:20:19 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 9:20:19 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 10:10:35 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 10:10:35 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 10:10:35 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 10:54:54 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 10:54:54 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 10:54:54 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 11:00:50 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 11:00:50 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 11:00:50 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 11:02:23 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 11:02:23 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 11:02:23 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 11:03:20 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 11:03:20 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 11:03:20 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 11:30:08 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 11:30:08 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 11:30:08 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 11:37:48 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 11:37:48 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 11:37:48 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 4:05:47 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 4:05:47 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 4:05:47 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 5:20:31 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 5:20:31 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 5:20:31 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 19, 2023 6:36:17 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 19, 2023 6:36:17 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 19, 2023 6:36:17 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 20, 2023 6:15:09 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 20, 2023 6:15:09 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 20, 2023 6:15:09 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 21, 2023 4:20:48 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 21, 2023 4:20:48 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 21, 2023 4:20:48 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 21, 2023 4:53:59 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Log de informação
+dez. 21, 2023 4:53:59 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log de Aviso
+dez. 21, 2023 4:53:59 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Log Severo, bicho feio
+dez. 22, 2023 5:22:55 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 22, 2023 5:22:55 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 22, 2023 5:22:55 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 22, 2023 5:57:00 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 22, 2023 5:57:00 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 22, 2023 5:57:00 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 22, 2023 6:13:32 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 22, 2023 6:13:32 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 22, 2023 6:13:32 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 22, 2023 6:41:21 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 22, 2023 6:41:21 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 22, 2023 6:41:21 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 22, 2023 7:41:53 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 22, 2023 7:41:53 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 22, 2023 7:41:53 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 22, 2023 7:49:51 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 22, 2023 7:49:51 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 22, 2023 7:49:51 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 22, 2023 8:04:31 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 22, 2023 8:04:31 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 22, 2023 8:04:31 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 23, 2023 6:31:21 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 23, 2023 6:31:21 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 23, 2023 6:31:21 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 28, 2023 12:01:45 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 28, 2023 12:01:45 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 28, 2023 12:01:45 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 29, 2023 3:25:28 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 29, 2023 3:25:28 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 29, 2023 3:25:28 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 29, 2023 3:31:12 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 29, 2023 3:31:12 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 29, 2023 3:31:12 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+dez. 31, 2023 5:02:11 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+dez. 31, 2023 5:02:11 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+dez. 31, 2023 5:02:11 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+jan. 02, 2024 10:34:04 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+jan. 02, 2024 10:34:04 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+jan. 02, 2024 10:34:04 AM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
+jan. 02, 2024 5:58:20 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+INFORMAÇÕES: Sistema de suporte técnico.
+jan. 02, 2024 5:58:20 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Muito bem vindo!
+jan. 02, 2024 5:58:20 PM com.suporte_tecnico.ProjetoSuporteTecnicoApplication main
+ADVERTÊNCIA: Faça bom uso.
