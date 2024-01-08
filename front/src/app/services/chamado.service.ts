@@ -11,6 +11,11 @@ export class ChamadoService {
 
   constructor(private http: HttpClient) { }
 
+   // Criando um chamado
+   create(chamado: Chamado): Observable<Chamado> {
+    return this.http.post<Chamado>(`${API_CONFIG.baseUrl}/chamados`, chamado);
+  }
+
   // Pegando uma lista de chamados por id
   findById(id: any): Observable<Chamado> {
     return this.http.get<Chamado>(`${API_CONFIG.baseUrl}/chamados/${id}`);
