@@ -31,4 +31,9 @@ export class ClienteService {
     return this.http.put<Cliente>(`${API_CONFIG.baseUrl}/clientes/${cliente.id}`, cliente);
   }
 
+  // Deletando um cliente
+  delete(id: any): Observable<Cliente> {
+    return this.http.delete<Cliente>(`${API_CONFIG.baseUrl}/clientes/${id}`);
+  }
+
 }
